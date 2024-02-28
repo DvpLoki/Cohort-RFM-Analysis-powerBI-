@@ -4,7 +4,14 @@
 -   https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ### Preview of Report
-![Screenshot 2024-02-16 221847](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/39e88837-3f4b-41ca-ba81-7b18fb2ffef9)
+![Screenshot 2024-02-29 020802](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/545c80cf-c889-48cf-a8a2-92da1acc0725)
+
+![Screenshot 2024-02-29 020821](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/cd1572aa-677b-4ac5-8923-ca0462176ea6)
+
+
+![Screenshot 2024-02-29 020037](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/334fa9a2-f9a2-41d9-9b53-96ee5ddd0095)
+
+
 ![Screenshot 2024-02-16 221858](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/4a4d2aa0-5423-4fa0-8b83-dbb5cab023d5)
 ![Screenshot 2024-02-16 221906](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/d34cb3e7-1ae3-4b5c-9b3e-3d7a01e64f57)
 ![Screenshot 2024-02-16 221914](https://github.com/DvpLoki/Cohort-RFM-Analysis-powerBI-/assets/131589195/f03ab8d3-9b2e-4176-b9cb-bc2247da04ff)
